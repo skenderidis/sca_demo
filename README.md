@@ -3,7 +3,7 @@
 > A tool to demo a F5 Secure Cloud Architecture along with Automation ToolChain
 
 
-[![INSERT YOUR GRAPHIC HERE](https://github.com/skenderidis/asm_audit/blob/master/images/asm_audit_1.png?raw=true)]()
+[![INSERT YOUR GRAPHIC HERE](https://github.com/skenderidis/sca_demo/blob/master/images/sca_11.png?raw=true)]()
 
 ---
 
