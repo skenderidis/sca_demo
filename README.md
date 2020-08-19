@@ -8,10 +8,10 @@
 ---
 
 ## Installation
-The Audit tool runs as a docker container. 
+The demo tool runs as a docker container. 
 
 ```shell
-$ docker run -dit -p 80:80 skenderidis/asm_audit
+$ docker run -dit -p 80:80 skenderidis/sca_demo
 ```
 
 > To get started...
