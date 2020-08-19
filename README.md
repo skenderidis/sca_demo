@@ -29,7 +29,7 @@ Note: It is important that the Resource Group is called "f5demo_dns" as it is be
 ### Service Account
 Follow the instructions on the following link on how to create a service principal. https://clouddocs.f5.com/training/community/azure-saca/html/class1/intro.html#create-a-service-principal 
 
-### Enable 
+### Enable Programmatic deployment
 Follow the instructions on the following link on how to create programmatic deployments. https://clouddocs.f5.com/training/community/azure-saca/html/class1/intro.html#enable-programmatic-deployment.
 You have to enable programmatic deployment for the following 4 types:
 
